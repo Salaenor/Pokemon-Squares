@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #F2F2F2;
+    font-size: 25px;
+}
+
+h1 {
+    color: #FF6347; /* Tomato Red */
+}
+
+img {
+    max-width: 80%;
+    border: 3px solid #FF6347;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: #333; /* Dark Gray */
+}
+
+input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #FF6347;
+    color: #FFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+button:hover {
+    background-color: #FF4500; /* Orange Red */
+}
+
+.correct {
+    color: #008000; /* Green */
+}
+
+.incorrect {
+    color: #FF0000; /* Red */
+}
+
+select {
+    height: 60px; /* Adjust the height as needed */
+    width: 300px; /* Adjust the height as needed */
+    padding: 5px 20px; /* Adjust padding for spacing */
+}

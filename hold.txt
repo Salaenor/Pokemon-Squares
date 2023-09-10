@@ -1,0 +1,8 @@
+$animals = array(
+        "cloyster" => "Pokemon Images/cloyster.png",
+        "cyndaquil" => "Pokemon Images/cyndaquil.png",
+        "tentacruel" => "Pokemon Images/tentacruel.png",
+    );
+
+
+    
